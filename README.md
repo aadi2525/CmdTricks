@@ -4,3 +4,4 @@ Cmd Tricks
 2)npx matrix rain
 3)npx cowsay hii
 4)npmx dogsay hii
+5) cd          // change the dictionary 
