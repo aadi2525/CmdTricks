@@ -7,3 +7,4 @@ Cmd Tricks
 5) cd          // change the dictionary 
 6)clt + c new line in terminal
 70 NPX MATRIX RAIN -K
+8) f1+cls something will happen
