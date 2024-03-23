@@ -8,3 +8,4 @@ Cmd Tricks
 6)clt + c new line in terminal
 70 NPX MATRIX RAIN -K
 8) f1+cls something will happen
+9)no idea
